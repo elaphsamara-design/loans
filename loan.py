@@ -179,3 +179,4 @@ if st.button('Predict Loan Approval'):
 
     st.subheader("Input Data Used for Prediction:")
     st.dataframe(processed_input.T)
+
