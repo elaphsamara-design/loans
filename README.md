@@ -2,7 +2,7 @@
 
 A machine learning web app that predicts loan approval status based on applicant information.
 
-## Try it live
+## Link to Try it
 [Click here to use the app](https://3jkhpgahzdmddthwsjakmh.streamlit.app/)
 
 ## Features
@@ -10,9 +10,3 @@ A machine learning web app that predicts loan approval status based on applicant
 - Uses FICO score, income, employment status, and other factors
 - Provides approval probability percentage
 
-## How to run locally
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/elaphsamara-design/loans.git
-cd loans
